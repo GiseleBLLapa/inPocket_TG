@@ -10,8 +10,8 @@ Neste módulo desenvolvemos uma OS digital, ou seja, a OS (ordem de serviço) at
 Usamos como exemplo a OS de um salão de beleza, salão eeste que se disponibilizou pronta e gentilmente a nos ajudar no levantamento de informações, requisitos e regras para o desenvolvimento do Bot.
 
 Agora ao ambiente:
-Falamos de um desenvolvimento em backend em JavaScript em ambiente Node.js, fazendo uso da API do Telegram e módulo do Node.js Telegraf
-Portanto, para que a aplicação possa ser instalada e rodar, precisamos preparar o ambiente:
+Falamos de um desenvolvimento em backend em JavaScript em ambiente Node.js, fazendo uso da API do Telegram e módulo do Node.js Telegraf,
+portanto, para que a aplicação possa ser instalada e rodar, precisamos preparar o ambiente:
 Instale o Node.js
 Instale o pacote do Node NPM
 Instale o módulo do Node Telegraf através do npm
